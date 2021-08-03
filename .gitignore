@@ -1,5 +1,9 @@
+/vendor
+/.idea
 build
-composer.lock
-docs
-vendor
+.phpunit.result.cache
 coverage
+composer.phar
+composer.lock
+.DS_Store
+database.sqlite
